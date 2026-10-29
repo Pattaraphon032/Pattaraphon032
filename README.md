@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 สวัสดีครับ ผม [นายภัทรพล แสงนาฮาย]
+---
 
-<!--
-**Pattaraphon032/Pattaraphon032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 ข้อมูลส่วนตัว
 
-Here are some ideas to get you started:
+- **ชื่อเล่น:** [ข้าวปั้น]
+- **สถานศึกษา:** [วิทยาลัยเทคนิคกระบี่]
+- **ระดับชั้น:** [ปวช.2/2]
+- **แผนกวิชา:** [เทคโนโรยีสารสนเทศ]
+---
+## 💻 ความสามารถและทักษะ
+- 🌐 การพัฒนาเว็บไซต์ด้วย HTML และ CSS
+- ⚙️ การเขียนโปรแกรมด้วย PHP
+- 🗄️ การจัดการฐานข้อมูล MySQL
+- 🎨 การออกแบบกราฟิกและสื่อดิจิทัล
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 ความสนใจ
+
+- 💻 การเขียนโปรแกรมและพัฒนาเว็บไซต์
+- 🎨 การออกแบบและสร้างสรรค์ผลงานดิจิทัล
+- 🤖 เทคโนโลยีและนวัตกรรม
+- 📚 การเรียนรู้ทักษะใหม่ ๆ
+- 🚀 การพัฒนาผลงานและโปรเจกต์ส่วนตัว
+
+---
+## 📫 ช่องทางการติดต่อ
+
+- **Email:** [68219010032@kbtc.ac.th]
+- **Phone:** [091-889-2470]
+
+---
